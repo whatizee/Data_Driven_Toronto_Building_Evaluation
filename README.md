@@ -1,4 +1,3 @@
-Here’s a **README.md** file template for your project:  
 
 ```markdown
 # Toronto Building Evaluation Dashboard  
